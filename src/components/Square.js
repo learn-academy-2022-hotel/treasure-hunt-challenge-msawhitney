@@ -10,4 +10,6 @@ const Square = ({square, index, handleGamePlay}) => {
     </>
   )
 }
+
 export default Square;
+
